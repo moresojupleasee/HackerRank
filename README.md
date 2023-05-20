@@ -1,5 +1,5 @@
 # HackerRank
-Solution of hackerRank questions.
+Solution of hackerRank questions
 
  _   _            _            ______            _    
 | | | |          | |           | ___ \          | |   
